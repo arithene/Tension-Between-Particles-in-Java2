@@ -339,6 +339,6 @@ public class TensionOfParticles extends JFrame {
 # DEMONSTRATION
 **$${\color{blue}BLUE}$$ tension between -1 and 0, $${\color{gray}BLACK}$$ tension equal to 0, $${\color{red}RED}$$ tension between 0 and 1,:**
 
-https://github.com/user-attachments/assets/042ae48d-780f-4129-9bc3-04b2ef860917
+https://github.com/user-attachments/assets/2675c95b-8924-49ad-938a-c0a194c05e5e
 
 # EXTRACT ZIP FILE TO RUN JAR FILE
