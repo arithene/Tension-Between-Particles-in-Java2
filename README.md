@@ -341,4 +341,3 @@ public class TensionOfParticles extends JFrame {
 
 https://github.com/user-attachments/assets/2675c95b-8924-49ad-938a-c0a194c05e5e
 
-# EXTRACT ZIP FILE TO RUN JAR FILE
